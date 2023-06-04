@@ -1,0 +1,35 @@
+<div id="image-gallery">
+    <div class="gallery-item">
+      <img src="images/george/george/Logos/1.jpg" data-bs-toggle="modal" data-bs-target="#modal1">
+    </div>
+    <div class="gallery-item">
+      <img src="images/george/george/Logos/2.jpg" data-bs-toggle="modal" data-bs-target="#modal2">
+    </div>
+    <div class="gallery-item">
+      <img src="images/george/george/Logos/3.jpg" data-bs-toggle="modal" data-bs-target="#modal3">
+    </div>
+</div>
+<div class="modal fade" id="modal1" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <img src="images/george/george/Logos/1.jpg" alt="Full-sized image 1">
+      </div>
+    </div>
+  </div>
+  
+  <div class="modal fade" id="modal2" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <img src="images/george/george/Logos/2.jpg" alt="Full-sized image 2">
+      </div>
+    </div>
+  </div>
+  
+  <div class="modal fade" id="modal3" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <img src="images/george/george/Logos/3.jpg" alt="Full-sized image 3">
+      </div>
+    </div>
+  </div>
+  
